@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Yago Medrado
 - 🏥 Trabalho na TI do Hospital Regional da Chapada
-- 📚 Curso a faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
+- 📚 Curso a Faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📚 Estudando HTML e CSS
 
 <div>
